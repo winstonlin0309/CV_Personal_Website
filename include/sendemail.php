@@ -10,8 +10,8 @@ require 'phpmailer/src/PHPMailer.php';
 $toemails = array();
 
 $toemails[] = array(
-	'email' => 'your@email.com', // Your Email Address
-	'name' => 'Your Name' // Your Name
+	'email' => 'winstonlin0309@gmail.com', // Your Email Address
+	'name' => 'Wen Lin' // Your Name
 );
 
 // Form Processing Messages
